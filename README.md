@@ -53,7 +53,7 @@ AI Agent to analyze blood reports and provide detailed health insights.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/harshhh28/hia.git
+git clone https://github.com/AryanRAstogii/hia.git
 cd hia
 ```
 
