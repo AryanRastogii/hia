@@ -12,7 +12,7 @@ AI Agent to analyze blood reports and provide detailed health insights.
 </p>
 
 <p align="center">
-  <a href="https://github.com/AryanRastogii/hia"><img src="https://raw.githubusercontent.com/AryanRastogii/hia/main/public/HIA.mp4" alt="Usage Demo"></a>
+  <a href="https://github.com/AryanRastogii/hia"><img src="https://raw.githubusercontent.com/AryanRastogii/hia/main/public/HIA.gif" alt="Usage Demo"></a>
 </p>
 
 ## 🌟 Features
